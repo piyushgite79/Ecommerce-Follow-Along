@@ -44,15 +44,6 @@ The MERN stack is a popular set of technologies for building full-stack web appl
 ### Frontend Development
 - Build the frontend using React.
 
----
-
-## What to Expect in Milestone 1
-In this mentor-led session, you will:
-
-1. Understand the overall vision, goals, and key features of the e-commerce application.
-2. Get inspired by a live demonstration of the completed application.
-3. Observe the app's functionality, user interface, and backend integration.
-
 ### Core Concepts Covered
 
 #### Overview of the MERN Stack
@@ -72,55 +63,6 @@ In MongoDB:
 #### Role of Authentication in Web Applications
 Authentication ensures secure access by verifying user identity. For this application:
 - Users must authenticate before making purchases or accessing sensitive information.
-
----
-
-## Project Setup
-Follow these steps to set up your project repository:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. **Install Dependencies**:
-   Navigate to the backend and frontend directories and install dependencies using:
-   ```bash
-   npm install
-   ```
-
-3. **Set Up Environment Variables**:
-   Create a `.env` file in the backend directory and configure necessary variables, such as:
-   ```env
-   PORT=5000
-   MONGO_URI=<your-mongodb-connection-string>
-   JWT_SECRET=<your-jwt-secret>
-   ```
-
-4. **Run the Application**:
-   Start both the backend and frontend servers:
-   ```bash
-   npm start
-   ```
-
-5. **Access the Application**:
-   Open your browser and navigate to `http://localhost:3000` for the frontend.
-
----
-
-## Upcoming Milestones
-- **Milestone 2**: API Development and Database Integration.
-- **Milestone 3**: Frontend Implementation and State Management.
-- **Milestone 4**: Application Deployment and Final Testing.
-
----
-
-## Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
-
----
-
-
-
+- 
 Happy Coding! 🎉
 
