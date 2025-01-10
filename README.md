@@ -8,49 +8,26 @@ Welcome to the Follow Along Project: Milestone 1! This project will guide you th
 ## Project Description
 The MERN E-Commerce Application is a hands-on project designed to teach you how to build a scalable and functional e-commerce platform using the MERN stack. You will learn to develop a secure backend, design a dynamic frontend, and implement essential features like user authentication, product management, and order processing. This project is ideal for developers aiming to gain practical experience in full-stack development.
 
-## Key Features of the Project
+---
 
-### MERN Stack
-The MERN stack is a popular set of technologies for building full-stack web applications. Its JavaScript-only approach simplifies development by allowing developers to use a single language across the frontend and backend.
+## Milestone 2: Project Setup and Login Page
 
-### REST API Creation
-- Build scalable APIs to handle:
-  - User Authentication: Register and log in users.
-  - Product Management: Add, update, and retrieve product data.
-  - Order Handling: Manage customer orders.
-- Serve data in a structured JSON format.
+### Key Features:
 
-### Authentication
-- Implement secure login and registration functionalities.
+1. **Project Folder Structure:**
+   - Organized project files into separate `frontend` and `backend` directories to maintain a clean and scalable structure.
 
-### Database Schema Design
-- Define structured data models using MongoDB.
+2. **React Frontend Setup:**
+   - Initialized a React application to build the user interface of the e-commerce platform.
 
-### Backend Development
-- Set up robust server-side logic using Node.js and Express.
+3. **Node.js Backend Setup:**
+   - Set up a simple Node.js server to prepare for API integration in future milestones.
 
-### Frontend Development
-- Build the frontend using React.
+4. **Tailwind CSS Configuration:**
+   - Integrated and configured Tailwind CSS to enable modern, responsive, and utility-based styling.
 
-### Core Concepts Covered
+5. **Login Page Development:**
+   - Created the first user interface of the application, focusing on functionality and styling for a seamless user experience.
 
-#### Overview of the MERN Stack
-The MERN stack simplifies development by enabling:
-- A JavaScript-only approach for both frontend and backend.
-- A streamlined development process, especially for beginners.
-
-#### REST API Structure and Endpoints
-Learn to build REST APIs that:
-- Facilitate communication between the client and server using standard HTTP methods.
-- Handle tasks like user authentication, product management, and order handling.
-
-#### Basics of Database Schema Design
-In MongoDB:
-- Schema design involves defining the structure and relationships of data stored in the database.
-
-#### Role of Authentication in Web Applications
-Authentication ensures secure access by verifying user identity. For this application:
-- Users must authenticate before making purchases or accessing sensitive information.
-- 
-Happy Coding! 🎉
+This milestone sets the foundation for future development by establishing the project's core structure and beginning the implementation of user-facing features.
 
