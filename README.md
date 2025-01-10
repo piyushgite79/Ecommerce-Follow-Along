@@ -8,18 +8,6 @@ Welcome to the Follow Along Project: Milestone 1! This project will guide you th
 ## Project Description
 The MERN E-Commerce Application is a hands-on project designed to teach you how to build a scalable and functional e-commerce platform using the MERN stack. You will learn to develop a secure backend, design a dynamic frontend, and implement essential features like user authentication, product management, and order processing. This project is ideal for developers aiming to gain practical experience in full-stack development.
 
----
-
-## Learning Goals 🎯
-After completing this project, you will:
-
-- Understand the overall structure of a MERN project.
-- Learn foundational steps for setting up a new project.
-- Gain clarity on the functionalities of an e-commerce application.
-- Prepare for upcoming milestones by setting up the project repository.
-
----
-
 ## Key Features of the Project
 
 ### MERN Stack
