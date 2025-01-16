@@ -30,6 +30,7 @@ This e-commerce application is designed to provide users with a seamless shoppin
 - Role of authentication in web applications.
 
 
+---
 
 ### **Milestone 2: Project Setup**
 
@@ -62,7 +63,6 @@ This e-commerce application is designed to provide users with a seamless shoppin
 - Basic error-handling mechanisms.
 
 
----
 
 ### **Milestone 4: User Model and File Uploads**
 
@@ -91,7 +91,6 @@ This e-commerce application is designed to provide users with a seamless shoppin
 - Form validation for input fields (e.g., email format, password strength).
 
 
-
 ---
 
 ### **Milestone 6: Backend - Signup Endpoint**
@@ -103,5 +102,12 @@ This e-commerce application is designed to provide users with a seamless shoppin
 #### Key Features Covered
 - Password encryption using bcrypt.
 - Secure storage of user data in the MongoDB database.
+
+
+## Project Repository
+
+[GitHub Repository Link](#) (Ensure this is publicly accessible and includes all milestones.)
+
+---
 
 
